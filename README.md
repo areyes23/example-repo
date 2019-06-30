@@ -11,3 +11,4 @@ I've added this line to be able to use git diff [filename] and track what was di
 
 In this section of the course (7. Committing Your Work and Viewing Differences), the following was learned:
 - Git terminology such as clone, push, and staging/committing
+- All that is needed now is more practice, practice, PRACTICE!
